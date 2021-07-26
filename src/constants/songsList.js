@@ -1,13 +1,13 @@
-import SongOne from "../assets/music/1.mp3";
-import SongTwo from "../assets/music/2.mp3";
-import SongThree from "../assets/music/3.mp3";
-import SongFour from "../assets/music/4.mp3";
-import SongFive from "../assets/music/5.mp3";
-import SongSix from "../assets/music/6.mp3";
-import SongSeven from "../assets/music/7.mp3";
-import SongEight from "../assets/music/8.mp3";
-import SongNine from "../assets/music/9.mp3";
-import SongTen from "../assets/music/10.mp3";
+import SongOne from "@assets/music/1.mp3";
+import SongTwo from "@assets/music/2.mp3";
+import SongThree from "@assets/music/3.mp3";
+import SongFour from "@assets/music/4.mp3";
+import SongFive from "@assets/music/5.mp3";
+import SongSix from "@assets/music/6.mp3";
+import SongSeven from "@assets/music/7.mp3";
+import SongEight from "@assets/music/8.mp3";
+import SongNine from "@assets/music/9.mp3";
+import SongTen from "@assets/music/10.mp3";
 
 export const AllSongs = [
     { id: 1, title: 'True Colours', artist: 'Anna Kendrick, Justin Timberlake', duration: '4:03', path: SongOne },

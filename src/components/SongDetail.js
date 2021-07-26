@@ -1,6 +1,6 @@
 import React from 'react';
 import { connect } from 'react-redux';
-import MusicPlayer from './MusicPlayer';
+import MusicPlayer from '@components/MusicPlayer';
 
 const SongDetail = ({ mySelectedSong }) => {
     if (!mySelectedSong) {

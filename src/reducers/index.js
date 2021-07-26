@@ -1,6 +1,6 @@
 import { combineReducers } from "redux";
 import { AllSongs } from "../constants/songsList";
-import { SortArrayInAscending } from "../components/SortListArray";
+import { SortArrayInAscending } from "@shared/SortListArray";
 
 const songsReducer = () => {
     const SortedListOfSongsByTitle = SortArrayInAscending(AllSongs);

@@ -1,7 +1,7 @@
 import React from 'react';
-import SongList from './SongList';
-import SongDetail from './SongDetail';
-import SearchBar from './SearchBar';
+import SongList from '@components/SongList';
+import SongDetail from '@components/SongDetail';
+import SearchBar from '@components/SearchBar';
 
 const App = () => {
 
